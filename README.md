@@ -50,8 +50,8 @@
 <div align="center">
 
 
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Ejercicios_Cap15_P1.jpg)
   
-
 ![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/35-1.JPG)
 ![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/35-2.JPG)
 ![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/37.JPG)
