@@ -15,15 +15,13 @@
 
 # **1. OBJETIVOS**
 
-**OBJETIVO GENERAL**
-- Interpretar el desfase entre diferencia de potencial e intensidad de corriente en circuitos de corriente alterna
-  -  Conocer las características de la corriente alterna, y su efecto sobre condensadores y bobinas.
- 
- **OBJETIVOS ESPECÍFICOS**
-  - s.
-  - o.
-  - Ca a la primera.
-  - D serie.
+  - Interpretar el desfase entre diferencia de potencial e intensidad de corriente en circuitos de corriente alterna.
+  - Conocer las características de la corriente alterna, y su efecto sobre resistencias, condensadores y bobinas.
+  - Conocer los diferentes tipos de generadores: generadores de tensión y corriente, los cuales se pueden desglosar a su vez en ideales y reales.
+  - Identificar la amplitud, frecuencia, voltajes pico, etc. en las ondas sinusoidales dadas como ejercicios.
+  - Analizar un circuito RLC serie desde el punto de vista energético.
+  - Estudiar la resonancia de un circuito RLC y sus aplicaciones a filtros.
+  - Calcular relaciones entre diferencias de potencial e intensidades de corriente en dipolos RLC en serie.
   
 # **2. MARCO TEÓRICO**
 
