@@ -16,7 +16,8 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - .
+- Interpretar el desfase entre diferencia de potencial e intensidad de corriente en circuitos de corriente alterna
+  -  Conocer las características de la corriente alterna, y su efecto sobre condensadores y bobinas.
  
  **OBJETIVOS ESPECÍFICOS**
   - s.
