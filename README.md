@@ -70,7 +70,7 @@
 Se concluye que:
 
 - m).
-- ma.
+- Si e(voltaje de la fuente) tiene un valor positivo, su polaridad real es igual que la polaridad de referencia, y cuando e tiene un valor negativo, su polaridad real es opuesta a la de la referencia.
 - to.
 
 
