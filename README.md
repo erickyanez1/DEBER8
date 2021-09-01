@@ -51,6 +51,13 @@
 
 
 ![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Ejercicios_Cap15_P1.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Ejercicios_Cap15_P2.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Ejercicios_Cap15_P3.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Ejercicios_Cap15_P4.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Ejercicios_Cap15_P5.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Ejercicios_Cap15_P6.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Ejercicios_Cap15_P7.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Ejercicios_Cap15_P8.jpg)
   
 ![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/35-1.JPG)
 ![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/35-2.JPG)
