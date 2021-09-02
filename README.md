@@ -113,7 +113,7 @@
 
 Se concluye que:
 
-- .
+- Para un circuito puramente resistivo, la corriente y el voltaje están en fase. Ya que las formas de onda de voltaje y corriente coinciden, sus fasores también coinciden.
 - Para la convención de voltaje y corriente para ca, si e(voltaje de la fuente) tiene un valor positivo, su polaridad real es igual que la polaridad de referencia, y cuando e tiene un valor negativo, su polaridad real es opuesta a la de la referencia.
 - Los valores tanto en voltajes como intensidades RMS (Raíz Media Cuadrática) se expresan de esta forma debido a que tienen una fuente alterna, el valor RMS es el valor del voltaje o corriente en C.A. que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente directa, este valor se puede transformar a voltajes pico, pico pico y promedio, lo cual viene determinado por fórmulas ya demostradas como Vrms = 0.707Vp.
 
