@@ -28,8 +28,11 @@
 - Capítulo 15
 <div align="center">
 
-
-
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Cap15_P1.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Cap15_P2.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Cap15_P3.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Cap15_P4.jpg)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/Cap15_P5.jpg)
 
 </div>
 
