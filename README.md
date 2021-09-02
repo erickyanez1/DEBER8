@@ -37,7 +37,11 @@
 - Capítulo 16
 <div align="center">
 
-
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/MarcoTeorico_cap16_1.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/MarcoTeorico_cap16_2.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/MarcoTeorico_cap16_3.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/MarcoTeorico_cap16_4.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/MarcoTeorico_cap16_5.png)
   
 </div>
 
@@ -86,6 +90,18 @@
 <div align="center">
 
 
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_3.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_5.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_7.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_9.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_11_13.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_15_17.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_19_21.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_23.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_25_27.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_29_31.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_33.png)
+![](https://github.com/erickyanez1/DEBER8/blob/main/IMG/ejer_cap16_35.png)
   
 </div>
 
